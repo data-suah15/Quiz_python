@@ -15,11 +15,11 @@
         .
         ├── Q_nonsense.json # 넌센스 문제(딕셔너리 형태) 
         ├── A_nonsense.json # 넌센스 정답(딕셔너리 형태)
-        ├── Q_IT.json # IT 용어 문제(딕셔너리 형태)
-        ├── A_IT.json # IT 용어 정답(딕셔너리 형태)
-        ├── quiz_DB.py # DB(json파일 열기)/문제 선택 관련 로직
-        ├── quiz_main.py # 메인 실행 파일(게임 실행)
-        └── README.md
+        ├── Q_IT.json       # IT 용어 문제(딕셔너리 형태)
+        ├── A_IT.json       # IT 용어 정답(딕셔너리 형태)
+        ├── quiz_DB.py      # DB(json파일 열기)/문제 선택 관련 로직
+        ├── quiz_main.py    # 메인 실행 파일(게임 실행)
+        └── README.md       # 프로젝트 설명서
 ```
 
 
